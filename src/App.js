@@ -12,7 +12,7 @@ function App() {
     <React.Fragment>
       <Router>
         <Routes>
-          <Route path="/" element={
+          <Route path="/netflix_clone/" element={
             <React.Fragment>
               <Header/>
               <HomeBanner/>

@@ -12,7 +12,7 @@ const Header = () => {
     <header className="topNav">
       <nav className="navbar navbar-expand-md navbar-dark">
         <div className="container-fluid">
-          <Link className="navbar-brand" to="/">
+          <Link className="navbar-brand" to="/dashboard">
             <img className="nav__logo" src="https://www.freepnglogos.com/uploads/netflix-logo-0.png" alt="" />
           </Link>
           
